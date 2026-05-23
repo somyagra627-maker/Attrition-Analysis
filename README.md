@@ -39,10 +39,3 @@ The dataset includes:
 ---
 
 # 🚀 Workforce Attrition Analysis Project
-
-## 📌 How to Run This Project (STEP-BY-STEP)
-
-### 1. Install Python
-Make sure Python 3.10+ is installed.
-
-Check:
